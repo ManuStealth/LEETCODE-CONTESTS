@@ -7,7 +7,7 @@ size of “stor” is not equal to n . **remember to keep track of the integer (
 you can do is to maintain a set in which not only store the integer which you just added in array “stor” but also integer k-i to eliminate 
 the pair whose some turn out to be exactly k.**
 
-
+CODE ---------CODE--------CODE--------CODE-------CODE--------CODE--------CODE---------CODE--------CODE-------CODE--------CODE-----------
 
   class Solution {
 public:
